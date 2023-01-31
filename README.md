@@ -1,5 +1,5 @@
 Le but de ce TP est de mettre en pratique les différentes connaissances acquises durant les séances de TD et TP.
-Le lien du github est : git@github.com:Aiduknow/jazz-poo.git
+Le lien du github est : git@github.com:Aiduknow/jazz-poo-main.git
 
 Réponses aux différenets questions : 
 
